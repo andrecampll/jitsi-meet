@@ -482,7 +482,7 @@ var config = {
     // Disables storing the room name to the recents list
     // doNotStoreRoom: true,
 
-    // Deployment specific URLs.
+    // Deployment specific URLs
     // deploymentUrls: {
     //    // If specified a 'Help' button will be displayed in the overflow menu with a link to the specified URL for
     //    // user documentation.
